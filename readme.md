@@ -1,1 +1,1 @@
-Hola mundo![alt text](image.png)
+Primer Punto: Creación del entorno virtual reto_u1 ![alt text](image-1.png)
